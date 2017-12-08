@@ -1,6 +1,6 @@
 # master-slave policy network_dqn
 
-using multiprocess (default 4 player, 1 evaluator, 1 updater and 1 parent)
+using multiprocess (default 4 players, 1 evaluator, 1 updater and 1 parent)
 
 StarCraft II Learning Environment
 minigames - CollectMineralShards
